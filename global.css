@@ -26,3 +26,7 @@ button {
   font-family: inherit;
   cursor: pointer;
 }
+
+.topbar {
+  display: flex;
+  align-items: center;
